@@ -1,1 +1,1 @@
-Simple chatter on green screen
+Simple chat for screen recording on green screen
